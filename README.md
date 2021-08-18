@@ -16,3 +16,4 @@ The following features were implemented:
 — form submission validation
 — registration email validation
 — url optimization
+
